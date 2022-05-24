@@ -1,1 +1,3 @@
 scraping/Google-Image-Scraper/
+tfjs/node_modules/
+tfjs/vgg19_model/
