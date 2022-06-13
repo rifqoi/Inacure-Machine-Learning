@@ -4,7 +4,7 @@ Predict plants based on their leaves
 
 ## Dataset
 
-[Google Drive](https://drive.google.com/drive/u/0/folders/1CQNPy-VuXd6EqvYhjRkNrKyovJ72wuVn)
+[Google Drive](https://drive.google.com/file/d/1sNezJoaOVYnmJexfdFXVC0E9y7NuEy19/view?usp=sharing)
 
 ## Documentation
 
