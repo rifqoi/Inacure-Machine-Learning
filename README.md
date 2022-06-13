@@ -27,4 +27,5 @@ There are 9 leaves classes that can be predicted:
 7. Kedelai
 8. Lemon
 9. Mangga
-10. Pepaya
+
+Perhaps more in the future? We shall see
